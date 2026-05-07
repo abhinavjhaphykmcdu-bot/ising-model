@@ -1,4 +1,5 @@
 # 2D Ising Model Simulation
+Developed as part of the *Statistical Analysis of Physical Systems using Monte Carlo and MCMC* program (PaAC x QCG Open Projects 2025, IIT Roorkee).
 
 ## Overview
 This project implements a Monte Carlo simulation of the 2D Ising model using the Metropolis algorithm to study phase transitions and spin configurations.
